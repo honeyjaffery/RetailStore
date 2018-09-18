@@ -1,0 +1,31 @@
+ SAMPLE INPUT 1
+ 
+ Enter the type of User.
+ Press 1 for Employee.
+ Press 2 for Affilated user.
+ Press 3 for Other user
+
+1
+Enter the total number of items user purchased 
+
+3
+Enter the item type and its price.
+ Type 1 for grocery item and
+ 2 for other items.
+ For Example: 1 500 
+ Its means item is grocery and its price is 500$
+Enter item type and its price
+
+1
+450
+Enter item type and its price
+2
+980
+Enter item type and its price
+1
+1000
+
+
+OUTPUT:
+After percentage discount: $2136.0
+Net payable amount is: $2031.0
